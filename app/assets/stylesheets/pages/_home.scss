@@ -10,12 +10,20 @@
 .box{
   margin: 10px;
   padding: 10px;
-  color: white;
+  color: #384BB5;
 }
-.emaillink{
+.homelink{
   text-decoration: underline
 }
-.emaillink:hover{
+.homelink:hover{
   color: #F5D745;
+  text-decoration: none;
+}
+.pageslink{
+  color: #384BB5;
+  text-decoration: underline
+}
+.pageslink:hover{
+  color: white;
   text-decoration: none;
 }
